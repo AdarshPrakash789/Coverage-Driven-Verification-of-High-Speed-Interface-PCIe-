@@ -294,6 +294,7 @@ source scripts/run.tcl
 ## Author
 Adarsh Prakash
 LinkedIn: https://www.linkedin.com/in/adarsh-prakash-a583a3259/
+Email: kumaradarsh663@gmail.com
 ```
 
 ---
